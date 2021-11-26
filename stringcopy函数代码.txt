@@ -1,3 +1,5 @@
+/*/*/*/*/*/*
+
 char* StrCpy(char* src)
 {
   int i;
@@ -14,6 +16,12 @@ char* StrCpy(char* src)
   *(p + i) = '\0';
   return p;
 }
+
+*/*/*/*/*/*/
+
 /**
+
 本地编辑
+
 **/
+
